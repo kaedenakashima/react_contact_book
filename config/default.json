@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Katie102:PkbwPDDnq6al9muw@contactkeeper-8o5ps.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
+
+// mongodb+srv://Katie102:PkbwPDDnq6al9muw@contactkeeper-8o5ps.mongodb.net/test?retryWrites=true
